@@ -1,4 +1,4 @@
-FROM beevelop/base:latest
+FROM beevelop/base
 
 MAINTAINER Maik Hummel <m@ikhummel.com>
 
