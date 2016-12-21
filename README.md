@@ -6,7 +6,7 @@
 ![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# Ruby based on Ubuntu 16.04 (Xenial Xerus)
+# Ruby 2.3 based on Ubuntu 16.04 (Xenial Xerus)
 ----
 ### Pull from Docker Hub
 ```
