@@ -3,8 +3,7 @@
 [![ImageLayer](https://badge.imagelayers.io/beevelop/ruby:latest.svg)](https://imagelayers.io/?images=beevelop/ruby:latest)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# Ruby
-### based on Ubuntu 15.10 (Wily Werewolf)
+# Ruby based on Ubuntu 16.04
 ----
 ### Pull from Docker Hub
 ```
