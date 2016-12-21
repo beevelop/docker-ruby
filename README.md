@@ -1,10 +1,12 @@
-[![Travis](https://img.shields.io/travis/beevelop/docker-ruby.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-ruby)
-[![Docker Pulls](https://img.shields.io/docker/pulls/beevelop/ruby.svg?style=flat-square)](https://links.beevelop.com/d-ruby)
-[![ImageLayer](https://badge.imagelayers.io/beevelop/ruby:latest.svg)](https://imagelayers.io/?images=beevelop/ruby:latest)
+[![Travis](https://shields.beevelop.com/travis/beevelop/docker-ruby.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-ruby)
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/ruby.svg?style=flat-square)](https://links.beevelop.com/d-ruby)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/ruby/latest.svg?style=flat-square)](https://links.beevelop.com/d-ruby)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/ruby/latest.svg?style=flat-square)](https://links.beevelop.com/d-ruby)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-ruby.svg?style=flat-square)](https://github.com/beevelop/docker-ruby/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# Ruby
-### based on Ubuntu 15.10 (Wily Werewolf)
+# Ruby based on Ubuntu 16.04 (Xenial Xerus)
 ----
 ### Pull from Docker Hub
 ```
